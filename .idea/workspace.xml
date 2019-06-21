@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="696c92a5-87ba-47ea-86d0-43b23ea9b67d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/AdventureGame/Characters/Enemies/Enemy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AdventureGame/Characters/Enemies/MythicalBeasts/Beast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AdventureGame/Characters/Enemies/MythicalBeasts/Centaur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AdventureGame/Characters/Enemies/MythicalBeasts/Dragon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AdventureGame/Characters/Enemies/MythicalBeasts/Ogre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AdventureGame/Characters/Enemies/Orc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AdventureGame/Characters/Enemies/Troll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AdventureGame/Interfaces/IDefend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AdventureGame/Interfaces/ISpell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AdventureGame/Interfaces/IWeapon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AdventureGame/Players/Clerics/Cleric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AdventureGame/Players/Fighter/Weapons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CentaurTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ClericTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DragonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/OgreTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/OrcTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TrollTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AdventureGame/Players/Fighter/Barbarian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AdventureGame/Players/Fighter/Barbarian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AdventureGame/Players/Fighter/Dwarf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AdventureGame/Players/Fighter/Dwarf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AdventureGame/Players/Fighter/Fighter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AdventureGame/Players/Fighter/Fighter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AdventureGame/Players/Fighter/Knight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AdventureGame/Players/Fighter/Knight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AdventureGame/Players/Mages/Mage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AdventureGame/Players/Mages/Mage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/AdventureGame/Players/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AdventureGame/Players/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BarbarianTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BarbarianTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DwarfTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DwarfTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/KnightTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/KnightTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="696c92a5-87ba-47ea-86d0-43b23ea9b67d" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,7 +54,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/KnightTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
+            <state relative-caret-position="457">
               <caret line="36" column="52" selection-start-line="36" selection-start-column="52" selection-end-line="36" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -336,7 +307,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561040677939" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561042511256" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -422,9 +393,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TrollTest - 2019.06.20 at 12h 06m 34s.xml">
-      <configuration name="TrollTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="OrcTest - 2019.06.20 at 13h 13m 50s.xml">
       <configuration name="OrcTest" configurationId="JUnit" />
     </history-entry>
@@ -452,10 +420,12 @@
     <history-entry file="KnightTest_canGetWeaponDamage - 2019.06.20 at 15h 24m 20s.xml">
       <configuration name="KnightTest.canGetWeaponDamage" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="KnightTest_canGetWeaponDamage - 2019.06.20 at 15h 24m 41s.xml">
+      <configuration name="KnightTest.canGetWeaponDamage" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="44" width="1280" height="695" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -470,7 +440,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32852563" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32852563" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32852563" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -876,7 +846,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/KnightTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
+        <state relative-caret-position="457">
           <caret line="36" column="52" selection-start-line="36" selection-start-column="52" selection-end-line="36" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
